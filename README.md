@@ -3,23 +3,6 @@
 ## 🚀 About Me
 I'm a passionate **Flutter & Native Android Developer** dedicated to building innovative and scalable applications for **Android & iOS**. I love creating solutions that enhance user experiences and solve real-world problems.
 
-## 💻 What I Do
-- 🏗 **Mobile App Development** (Flutter | Kotlin | Android)
-- 🎮 **Game Development** (Flutter | Flame Engine | Native Android)
-- ☁ **Backend & Database** (Supabase | Firebase)
-- 📈 **UI/UX Prototyping**
-- 🤖 **AI-Powered Apps** (OpenAI API | LangChain)
-- 🔧 **Automation & Tool Development**
-
-## 🏆 Notable Projects
-- **Trishat** 🎲 - A two-player strategy game in Flutter.
-- **FlipCard** 🃏 - A card memory game with multiplayer support.
-- **BouncyBlock** 🚀 - A Flappy Bird-like game in Kotlin.
-- **SafetySync** 🛡 - Safety app to assist in emergencies.
-- **RoomHunter** 🏠 - Rental property finder app.
-- **Pomodrix** ⏳ - A productivity app based on the Pomodoro technique.
-- **Invoice System** 📄 - Automated invoice generation using Google Sheets & Forms.
-
 ## 🔥 Skills & Technologies
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
@@ -33,6 +16,24 @@ I'm a passionate **Flutter & Native Android Developer** dedicated to building in
 - **Game AI Development** 🤖
 - **Multiplayer Networking in Games** 🎮
 - **Machine Learning in Mobile Apps** 🧠
+
+## 💻 What I Do
+- 🏗 **Mobile App Development** (Flutter | Kotlin | Android)
+- 🎮 **Game Development** (Flutter | Flame Engine | Native Android)
+- ☁ **Backend & Database** (Supabase | Firebase)
+- 📈 **UI/UX Prototyping**
+- 🤖 **AI-Powered Apps** (OpenAI API | LangChain)
+- 🔧 **Automation & Tool Development**
+
+
+## 🏆 Notable Projects
+
+| Flutter Projects 🚀 | Native Android (Kotlin) Projects 📱 |
+|--------------------|-----------------------------------|
+| **Trishat** 🎲 - A two-player strategy game in Flutter. | **BouncyBlock** 🚀 - A Flappy Bird-like game in Kotlin. |
+| **FlipCard** 🃏 - A card memory game with multiplayer support. | **SafetySync** 🛡 - Safety app to assist in emergencies. |
+| **Pomodrix** ⏳ - A productivity app based on the Pomodoro technique. | **RoomHunter** 🏠 - Rental property finder app. |
+
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
