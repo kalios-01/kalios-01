@@ -1,5 +1,3 @@
-# Hi there, I'm Priyanshu Yadav 👋
-
 ## 🚀 About Me
 I'm a passionate **Flutter & Native Android Developer** dedicated to building innovative and scalable applications for **Android & iOS**. I love creating solutions that enhance user experiences and solve real-world problems.
 
