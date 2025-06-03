@@ -5,10 +5,13 @@
 
 ---
 
+
 ## 🧑‍💻 About Me
 I'm a passionate **Flutter & Native Android Developer** focused on crafting innovative and user-centric mobile applications. I thrive on solving real-world problems with efficient code and intuitive design.
 
 ---
+<img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif">
+
 
 ## 🔧 Tech Stack & Tools
 
