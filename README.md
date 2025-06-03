@@ -1,40 +1,78 @@
-## 🚀 About Me
-I'm a passionate **Flutter & Native Android Developer** dedicated to building innovative and scalable applications for **Android & iOS**. I love creating solutions that enhance user experiences and solve real-world problems.
+<h1 align="center">🚀 Kalios - Flutter & Native Android Developer</h1>
+<p align="center">
+  <i>Building beautiful, scalable & intelligent mobile experiences for Android & iOS 📱</i>
+</p>
 
-## 🔥 Skills & Technologies
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+---
 
-## 🌱 Currently Learning
-- **Advanced Flutter Animations** 🎨
-- **Game AI Development** 🤖
-- **Multiplayer Networking in Games** 🎮
-- **Machine Learning in Mobile Apps** 🧠
+## 🧑‍💻 About Me
+I'm a passionate **Flutter & Native Android Developer** focused on crafting innovative and user-centric mobile applications. I thrive on solving real-world problems with efficient code and intuitive design.
 
-## 💻 What I Do
-- 🏗 **Mobile App Development** (Flutter | Kotlin | Android)
-- 🎮 **Game Development** (Flutter | Flame Engine | Native Android)
-- ☁ **Backend & Database** (Supabase | Firebase)
-- 📈 **UI/UX Prototyping**
-- 🤖 **AI-Powered Apps** (OpenAI API | LangChain)
-- 🔧 **Automation & Tool Development**
+---
 
+## 🔧 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+---
+
+## 🌱 Currently Leveling Up
+
+- 🎨 Advanced Flutter Animations
+- 🤖 Game AI Development
+- 🎮 Multiplayer Networking in Games
+- 🧠 ML Integration in Mobile Apps
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kalios-01&show_icons=true&theme=radical&hide=prs&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalios-01&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalios-01&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
 
 ## 🏆 Notable Projects
 
-| Flutter Projects 🚀 | Native Android (Kotlin) Projects 📱 |
-|--------------------|-----------------------------------|
-| **Trishat** 🎲 - A two-player strategy game in Flutter. | **BouncyBlock** 🚀 - A Flappy Bird-like game in Kotlin. |
-| **FlipCard** 🃏 - A card memory game with multiplayer support. | **SafetySync** 🛡 - Safety app to assist in emergencies. |
-| **Pomodrix** ⏳ - A productivity app based on the Pomodoro technique. | **RoomHunter** 🏠 - Rental property finder app. |
+| 🚀 Flutter Projects | 📱 Kotlin Projects |
+|---------------------|--------------------|
+| 🎲 **Trishat** – Two-player strategy game | 🚀 **BouncyBlock** – Flappy Bird-style game |
+| 🃏 **FlipCard** – Multiplayer memory game | 🛡 **SafetySync** – Emergency safety app |
+| ⏳ **Pomodrix** – Pomodoro productivity tool | 🏠 **RoomHunter** – Rental property finder |
 
+---
 
-## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalios01/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/kalios-01)
+## 🔁 Random Dev Quote
 
-🚀 **Let's build something amazing together!**
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kalios01/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/kalios-01"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center"><b>Let’s build something amazing together 💡</b></p>
